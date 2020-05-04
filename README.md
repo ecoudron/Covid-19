@@ -8,6 +8,8 @@ Originaly, my analysis was made with excel and Powerquery-M which are very great
 Soon after this, I began the [Udacity data scientist nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). One of the projects of this Mooc consist to create a Blog with a repo.
 Which is why I converted (and improved) my powerquery script in python
 
+## Fonctionalities
+
 ## Installation
 With an anaconda distribution, no specific installation is required.
 The packages are common ones (pandas, numpy, matplotlib and seaborn)
