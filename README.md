@@ -11,7 +11,7 @@ Which is why I converted (and improved) my powerquery script in python
 ## Fonctionalities
 1. Review of data structure of the different sources
 2. Fonctions to tidy & draw data
-3. Multiples 
+3. Visual analysis of the evolution of the number of cases and deaths per day and country
 
 ## Installation
 With an anaconda distribution, no specific installation is required.
