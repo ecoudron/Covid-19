@@ -1,6 +1,6 @@
-Country/Region;Colonne1;PaysUN
+Country/Region;Region;PaysUN
 Italy;Europe;Italy
-China;Chine;China
+China;China;China
 Spain;Europe;Spain
 Iran;Middle East;Iran (Islamic Republic of)
 France;Europe;France
@@ -10,13 +10,13 @@ Netherlands;Europe;Netherlands
 Germany;Europe;Germany
 Switzerland;Europe;Switzerland
 Belgium;Europe;Belgium
-Korea, South;Asie;Republic of Korea
-Indonesia;Asie;Indonesia
+Korea, South;Asia;Republic of Korea
+Indonesia;Asia;Indonesia
 Brazil;South America;Brazil
 Turkey;Middle East;Turkey
-Japan;Asie;Japan
+Japan;Asia;Japan
 Sweden;Europe;Sweden
-Philippines;Asie;Philippines
+Philippines;Asia;Philippines
 Portugal;Europe;Portugal
 Denmark;Europe;Denmark
 Austria;Europe;Austria
@@ -26,146 +26,146 @@ Canada;North America;Canada
 San Marino;Europe;San Marino
 Greece;Europe;Greece
 Egypt;Middle East;Egypt
-Algeria;Afrique;Algeria
-Malaysia;Asie;Malaysia
+Algeria;Africa;Algeria
+Malaysia;Asia;Malaysia
 Norway;Europe;Norway
 Romania;Europe;Romania
-India;Asie;India
-Diamond Princess;Asie;Diamond Princess
+India;Asia;India
+Diamond Princess;Asia;Diamond Princess
 Poland;Europe;Poland
 Hungary;Europe;Hungary
 Luxembourg;Europe;Luxembourg
-Australia;Oceanie;Australia
+Australia;Oceania;Australia
 Peru;South America;Peru
-Pakistan;Asie;Pakistan
+Pakistan;Asia;Pakistan
 Ireland;Europe;Ireland
 Panama;South America;Panama
 Argentina;South America;Argentina
 Dominican Republic;South America;Dominican Republic
-Morocco;Afrique;Morocco
+Morocco;Africa;Morocco
 Albania;Europe;Albania
 Iceland;Europe;Iceland
-Burkina Faso;Afrique;Burkina Faso
-Thailand;Asie;Thailand
-Bangladesh;Asie;Bangladesh
+Burkina Faso;Africa;Burkina Faso
+Thailand;Asia;Thailand
+Bangladesh;Asia;Bangladesh
 Mexico;North America;Mexico
 Slovenia;Europe;Slovenia
-Tunisia;Afrique;Tunisia
+Tunisia;Africa;Tunisia
 Lebanon;Middle East;Lebanon
 Serbia;Europe;Serbia
 Colombia;South America;Colombia
 Cyprus;Europe;Cyprus
 Czechia;Europe;Czechia
-Bahrain;Asie;Bahrain
+Bahrain;Asia;Bahrain
 Ukraine;Europe;Ukraine
-Kazakhstan;Asie;Kazakhstan
+Kazakhstan;Asia;Kazakhstan
 Bulgaria;Europe;Bulgaria
 Bosnia and Herzegovina;Europe;Bosnia and Herzegovina
 Israel;Middle East;Israel
 Chile;South America;Chile
-Ghana;Afrique;Ghana
-Singapore;Asie;Singapore
+Ghana;Africa;Ghana
+Singapore;Asia;Singapore
 North Macedonia;Europe;North Macedonia
-Mauritius;Afrique;Mauritius
-Taiwan*;Asie;China, Taiwan Province of China
+Mauritius;Africa;Mauritius
+Taiwan*;Asia;China, Taiwan Province of China
 Lithuania;Europe;Lithuania
 Paraguay;South America;Paraguay
 Costa Rica;South America;Costa Rica
-Congo (Kinshasa);Afrique;Congo (Kinshasa)
+Congo (Kinshasa);Africa;Congo (Kinshasa)
 United Arab Emirates;Middle East;United Arab Emirates
-Cabo Verde;Afrique;Cabo Verde
+Cabo Verde;Africa;Cabo Verde
 Guatemala;South America;Guatemala
 Jamaica;South America;Jamaica
 Guyana;South America;Guyana
-Gabon;Afrique;Gabon
+Gabon;Africa;Gabon
 Croatia;Europe;Croatia
 Cuba;South America;Cuba
-Afghanistan;Asie;Afghanistan
-Azerbaijan;Asie;Azerbaijan
-Gambia;Afrique;Gambia
+Afghanistan;Asia;Afghanistan
+Azerbaijan;Asia;Azerbaijan
+Gambia;Africa;Gambia
 Andorra;Europe;Andorra
-Nigeria;Afrique;Nigeria
-Russia;Russie;Russian Federation
+Nigeria;Africa;Nigeria
+Russia;Russia;Russian Federation
 Slovakia;Europe;Slovakia
 Moldova;Europe;Moldova
 Saudi Arabia;Middle East;Saudi Arabia
-Sudan;Afrique;Sudan
+Sudan;Africa;Sudan
 Montenegro;Europe;Montenegro
 Finland;Europe;Finland
-Zimbabwe;Afrique;Zimbabwe
-Kyrgyzstan;Asie;Kyrgyzstan
+Zimbabwe;Africa;Zimbabwe
+Kyrgyzstan;Asia;Kyrgyzstan
 Liechtenstein;Europe;Liechtenstein
 Jordan;Middle East;Jordan
-Liberia;Afrique;Liberia
-Libya;Afrique;Libya
+Liberia;Africa;Liberia
+Libya;Africa;Libya
 Kuwait;Middle East;Kuwait
-Togo;Afrique;Togo
-Maldives;Asie;Maldives
-Madagascar;Afrique;Madagascar
-Mauritania;Afrique;Mauritania
+Togo;Africa;Togo
+Maldives;Asia;Maldives
+Madagascar;Africa;Madagascar
+Mauritania;Africa;Mauritania
 Malta;Europe;Malta
-Grenada;Afrique;Grenada
-Laos;Asie;Laos
-Latvia;Asie;Latvia
-Mongolia;Asie;Mongolia
-Guinea;Afrique;Guinea
+Grenada;Africa;Grenada
+Laos;Asia;Laos
+Latvia;Asia;Latvia
+Mongolia;Asia;Mongolia
+Guinea;Africa;Guinea
 Monaco;Europe;Monaco
-Georgia;Asie;Georgia
+Georgia;Asia;Georgia
 Nicaragua;South America;Nicaragua
-Mozambique;Afrique;Mozambique
-New Zealand;Oceanie;New Zealand
-Ethiopia;Afrique;Ethiopia
-Niger;Afrique;Niger
-Somalia;Afrique;Somalia
-Eswatini;Afrique;Eswatini
-Fiji;Oceanie;Fiji
+Mozambique;Africa;Mozambique
+New Zealand;Oceania;New Zealand
+Ethiopia;Africa;Ethiopia
+Niger;Africa;Niger
+Somalia;Africa;Somalia
+Eswatini;Africa;Eswatini
+Fiji;Oceania;Fiji
 Estonia;Europe;Estonia
-Eritrea;Afrique;Eritrea
-Equatorial Guinea;Afrique;Equatorial Guinea
-Papua New Guinea;Oceanie;Papua New Guinea
+Eritrea;Africa;Eritrea
+Equatorial Guinea;Africa;Equatorial Guinea
+Papua New Guinea;Oceania;Papua New Guinea
 El Salvador;South America;El Salvador
 Oman;Middle East;Oman
-Namibia;Afrique;Namibia
+Namibia;Africa;Namibia
 Dominica;South America;Dominica
-Nepal;Asie;Nepal
-Djibouti;Afrique;Djibouti
+Nepal;Asia;Nepal
+Djibouti;Africa;Djibouti
 Honduras;South America;Honduras
 Saint Lucia;South America;Saint Lucia
 Qatar;Middle East;Qatar
-Cote d'Ivoire;Afrique;Cote d'Ivoire
-Rwanda;Afrique;Rwanda
-Senegal;Afrique;Senegal
+Cote d'Ivoire;Africa;Cote d'Ivoire
+Rwanda;Africa;Rwanda
+Senegal;Africa;Senegal
 Uruguay;South America;Uruguay
 Antigua and Barbuda;South America;Antigua and Barbuda
-Congo (Brazzaville);Afrique;Congo (Brazzaville)
+Congo (Brazzaville);Africa;Congo (Brazzaville)
 Saint Vincent and the Grenadines;South America;Saint Vincent and the Grenadines
-Seychelles;Asie;Seychelles
-Cameroon;Afrique;Cameroon
-Central African Republic;Afrique;Central African Republic
-Kenya;Afrique;Kenya
-Cambodia;Asie;Cambodia
-South Africa;Afrique;South Africa
-Sri Lanka;Asie;Sri Lanka
-Chad;Afrique;Chad
+Seychelles;Asia;Seychelles
+Cameroon;Africa;Cameroon
+Central African Republic;Africa;Central African Republic
+Kenya;Africa;Kenya
+Cambodia;Asia;Cambodia
+South Africa;Africa;South Africa
+Sri Lanka;Asia;Sri Lanka
+Chad;Africa;Chad
 Suriname;South America;Suriname
-Brunei;Asie;Brunei
+Brunei;Asia;Brunei
 Armenia;Middle East;Armenia
 Trinidad and Tobago;South America;Trinidad and Tobago
 Bahamas;South America;Bahamas
 Bolivia;South America;Bolivia
-Bhutan;Asie;Bhutan
-Timor-Leste;Oceanie;Timor-Leste
+Bhutan;Asia;Bhutan
+Timor-Leste;Oceania;Timor-Leste
 Holy See;Europe;Holy See
 Haiti;South America;Haiti
 Belarus;Europe;Belarus
 Barbados;South America;Barbados
-Benin;Afrique;Benin
-Vietnam;Asie;Vietnam
-Uzbekistan;Asie;Uzbekistan
-Uganda;Afrique;Uganda
-Zambia;Afrique;Zambia
-Angola;Afrique;Angola
+Benin;Africa;Benin
+Vietnam;Asia;Vietnam
+Uzbekistan;Asia;Uzbekistan
+Uganda;Africa;Uganda
+Zambia;Africa;Zambia
+Angola;Africa;Angola
 Belize;South America;Belize
 Syria;Middle East;Syria
 Venezuela;South America;Venezuela
-Tanzania;Afrique;Tanzania
+Tanzania;Africa;Tanzania
